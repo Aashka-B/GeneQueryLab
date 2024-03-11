@@ -5,9 +5,9 @@ and generate respective output files.
 
 Sample command for executing the program:
 
-python3 secondary_structure_splitter.py [-h] -i input_file.fasta
+python3 sec_structure_split.py [-h] -i input_file.fasta
 OR
-python3 secondary_structure_splitter.py [--help] --infile input_file.fasta
+python3 sec_structure_split.py [--help] --infile input_file.fasta
 """
 import argparse
 import sys
