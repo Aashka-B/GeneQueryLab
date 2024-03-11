@@ -1,5 +1,5 @@
 """
-A test script for the secondary_structure_splitter.py program.
+A test script for the sec_structure_split.py program.
 """
 import pytest
 from secondary_structure_splitter import (get_fasta_lists, get_filehandle,
