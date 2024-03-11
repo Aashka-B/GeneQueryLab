@@ -1,5 +1,5 @@
 """
-File: find_common_cats.py
+File: common_cats.py
 This program counts how many genes are in each category (1.1, 1.2, 2.1 etc.)
 based on data from the input gene file and the input gene category description file.
 
