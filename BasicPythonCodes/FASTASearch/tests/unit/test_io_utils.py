@@ -2,7 +2,7 @@
 import os
 import pytest
 
-from assignment4.io_utils import (get_filehandle)
+from FASTASeach.io_utils import (get_filehandle)
 
 # ignore all "Missing function or method docstring" since this is a unit test
 # pylint: disable=C0116
