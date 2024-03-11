@@ -14,7 +14,7 @@ Sample command for executing the program:
 """
 import argparse
 # Importing the get_filehandle function
-from assignment4.io_utils import get_filehandle
+from FASTASearch.io_utils import get_filehandle
 
 
 # Function to read category descriptions from chr21_gene_categories.txt
