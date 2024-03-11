@@ -1,5 +1,5 @@
 """
-File: gene_names_from_chr21.py
+File: gene_description.py
 This program asks the user to enter a gene symbol and then prints the description
 for that gene based on data from the input file.
 
