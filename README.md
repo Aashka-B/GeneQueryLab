@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aashka-B
+- 👋 Hi, I’m @Aashka-B 
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning how to analyze genomic data using Python and R
 - 📫 How to reach me: 📧aashka.bhowmick@gmail.com; 🔗https://in.linkedin.com/in/aashkabhowmick
