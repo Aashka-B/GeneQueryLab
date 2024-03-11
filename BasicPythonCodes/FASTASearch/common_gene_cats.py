@@ -1,5 +1,5 @@
 """
-File: common_cats.py
+File: common_gene_cats.py
 This program counts how many genes are in each category (1.1, 1.2, 2.1 etc.)
 based on data from the input gene file and the input gene category description file.
 
@@ -8,9 +8,9 @@ Note: The program uses chr21_genes.txt and chr21_genes_categories.txt
 
 Sample command for executing the program:
 
-    python3 find_common_cats.py [-h] -i1 chr21_genes.txt -i2 chr21_genes_categories.txt
+    python3 common_gene_cats.py [-h] -i1 chr21_genes.txt -i2 chr21_genes_categories.txt
     OR
-    python3 find_common_cats.py
+    python3 common_gene_cats.py
 """
 import argparse
 # Importing the get_filehandle function
