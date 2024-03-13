@@ -1,4 +1,0 @@
-[run]
-omit =
-    test_*
-    /usr/local/bin/python3.*/*
