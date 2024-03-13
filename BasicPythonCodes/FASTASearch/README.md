@@ -22,4 +22,11 @@ The FASTASearch subdirectory/module contains utilities for file handling and I/O
 
 ## Getting Started
 
-To utilize these tools, clone the GeneQueryLab repository and navigate to the FASTASearch folder. Ensure Python 3.x is installed on your system.
+To utilize these tools, clone the GeneQueryLab repository and navigate to the FASTASearch folder. Ensure you have Python 3.x installed on your system, along with necessary packages (e.g., `argparse`, `pytest` for running tests).
+
+## Usage
+
+Each script is designed to be run from the command line. For example, to use gene_description.py:
+
+```bash
+python gene_description.py -i chr21_genes.txt
