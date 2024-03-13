@@ -4,7 +4,7 @@ The FASTASearch folder within the GeneQueryLab repository encompasses a suite of
 
 ## Contents
 
-This directory contains the following files and a subdirectory for module-specific utilities:
+This directory contains the following files and subdirectories for module-specific utilities and testing:
 
 - **chr21_genes_categories.txt**: Categorization of genes from chromosome 21 based on their identity and functional association.
 - **chr21_genes.txt**: List of genes from chromosome 21, including descriptions and category classifications.
